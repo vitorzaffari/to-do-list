@@ -15,3 +15,7 @@ Also note that I removed my API key from the code. So that part shouldn't work. 
 <img height=500 src='assets/to_readme/test3.gif'  />
 <h4>04. Everything is saved on your local storage, including whether or not the item was selected.</h4>
 <img height=500 src='assets/to_readme/test4.gif'  />
+<h4>05. Everything is saved on your local storage, including whether or not the item was selected.</h4>
+<img height=500 src='assets/to_readme/test5.gif'  />
+<h4>06. Everything is saved on your local storage, including whether or not the item was selected.</h4>
+<img height=500 src='assets/to_readme/test6.gif'  />
