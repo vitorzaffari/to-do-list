@@ -7,3 +7,7 @@ The cost of not having a definitive vision of what I wanted it to be is a <stron
 Note that I didn't spend a lot of time on the header, since it's just an extra. 
 <br><br>
 <img src='assets/to_readme/test1.gif'  />
+<br><br>
+<h3>02. The app displays some info in it's header, such as weather info with a background picture (if user allow it) and current day and hour.</h3>
+<br><br>
+<img src='assets/to_readme/test2.gif'  />
