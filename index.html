@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> <!-- poppins  -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <!-- poppins  -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet"> <!-- poppins  -->
+    <script src="https://kit.fontawesome.com/aa42a1cf60.js" crossorigin="anonymous"></script> <!-- font-awesome  -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <!-- google icons -->
+
+</head>
+
+
+
+<body>
+    <div class="names-are-hard">
+        <div class="container">
+
+            <header>
+                <div class='bkg-weather'>
+                    <img src="assets/02d.jpg" alt="clear">
+                </div>
+                <div class="date">
+                    <div class="info-card">
+
+                        <p class="info"></p>
+                        <p class="temp">°C</p>
+
+                        <div class="weather-icon">
+                            <p class="info-time"></p>
+                        </div>
+                        <span class="material-symbols-outlined size-40 display-icon">sunny</span>
+                        <p class="weather-info">--</p>
+                    </div>
+
+                </div>
+            </header>
+
+            <div class="content">
+                <ul id="lists" class="list">
+
+                </ul>
+                <div class="options">
+                    <div class="add-item">
+                        <p>Add new item</p>
+                    </div>
+                    <div class="clear-list">
+                        <p>Clear List</p>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+    <div class="new-item-input-box">
+        <div class="new-item-input">
+            <div class="input-group">
+                <p>Add your item</p>
+                <input class="input-text" type="text" name="item" id="item" placeholder="Your new item" disabled>
+            </div>
+
+            <div class="button-group">
+                <button class="btn-add" type="button">
+                    <p>Confirm</p>
+                </button>
+                <button class="btn-cancel" type="button">
+                    <p>Cancel</p>
+                </button>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+    <script src="app.js"></script>
+</body>
+
+</html>
