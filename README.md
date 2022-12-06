@@ -5,7 +5,7 @@ The cost of not having a definitive vision of what I wanted it to be is a <stron
 
 <h3>01. The app displays some info in it's header, such as weather info with a background picture (if user allow it) and current day and hour.</h3>
 Note that I didn't spend a lot of time on the header, since it's just an extra. <br>
-Also note that I removed my API key from the code. So that part shouldn't work. You'll have hardcode an [openweathermap.org](https://openweathermap.org/api) KEY into 'app.js' line 50
+Also note that I removed my API key from the code. So that part shouldn't work. You'll have hardcode an (https://openweathermap.org/api) KEY into 'app.js' line 50
 <br><br>
 <img src='assets/to_readme/test1.gif'  />
 <br><br>
