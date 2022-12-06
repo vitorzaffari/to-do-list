@@ -10,5 +10,5 @@ Note that I didn't spend a lot of time on the header, since it's just an extra.
 <br><br>
 <h4>02. Adding an item, each item will have a menu, the input accepts keyboard 'Enter' and 'Esc' for confirming and canceling aswell.</h4>
 <img height=500 src='assets/to_readme/test2.gif'  />
-<h4>03. Adding an item, each item will have a menu, the input accepts keyboard 'Enter' and 'Esc' for confirming and canceling aswell.</h4>
+<h4>03. The menu will be only displayed on the current selected item (this took me some time hehe) and you can edit it as you wish.</h4>
 <img height=500 src='assets/to_readme/test3.gif'  />
