@@ -10,4 +10,4 @@ Note that I didn't spend a lot of time on the header, since it's just an extra.
 <br><br>
 <h3>02. The app displays some info in it's header, such as weather info with a background picture (if user allow it) and current day and hour.</h3>
 <br><br>
-<img height=300 src='assets/to_readme/test2.gif'  />
+<img height=500 src='assets/to_readme/test2.gif'  />
