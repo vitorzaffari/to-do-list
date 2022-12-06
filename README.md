@@ -13,5 +13,5 @@ Also note that I removed my API key from the code. So that part shouldn't work. 
 <img height=500 src='assets/to_readme/test2.gif'  />
 <h4>03. The menu will be only displayed on the current selected item (this took me some time hehe) and you can edit it as you wish.</h4>
 <img height=500 src='assets/to_readme/test3.gif'  />
-<h4>04. Everything is saved on your local storage, including wether or not the item was selected.</h4>
+<h4>04. Everything is saved on your local storage, including whether or not the item was selected.</h4>
 <img height=500 src='assets/to_readme/test4.gif'  />
